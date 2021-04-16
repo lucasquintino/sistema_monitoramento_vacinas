@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sistema_monitoramento_vacinas/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/sistema_monitoramento_vacinas/static/js/main.900cf9fe.chunk.js",
+    "main.js.map": "/sistema_monitoramento_vacinas/static/js/main.900cf9fe.chunk.js.map",
+    "runtime-main.js": "/sistema_monitoramento_vacinas/static/js/runtime-main.a5b01678.js",
+    "runtime-main.js.map": "/sistema_monitoramento_vacinas/static/js/runtime-main.a5b01678.js.map",
+    "static/js/2.75a182ef.chunk.js": "/sistema_monitoramento_vacinas/static/js/2.75a182ef.chunk.js",
+    "static/js/2.75a182ef.chunk.js.map": "/sistema_monitoramento_vacinas/static/js/2.75a182ef.chunk.js.map",
+    "static/js/3.d1911560.chunk.js": "/sistema_monitoramento_vacinas/static/js/3.d1911560.chunk.js",
+    "static/js/3.d1911560.chunk.js.map": "/sistema_monitoramento_vacinas/static/js/3.d1911560.chunk.js.map",
+    "index.html": "/sistema_monitoramento_vacinas/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/sistema_monitoramento_vacinas/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.75a182ef.chunk.js.LICENSE.txt": "/sistema_monitoramento_vacinas/static/js/2.75a182ef.chunk.js.LICENSE.txt",
+    "static/media/logo-vacinas_reduzido.66e19703.png": "/sistema_monitoramento_vacinas/static/media/logo-vacinas_reduzido.66e19703.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5b01678.js",
+    "static/js/2.75a182ef.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.900cf9fe.chunk.js"
+  ]
+}
