@@ -1,7 +1,9 @@
 import React, { useState, useEffect, useMemo } from "react";
 import { useStyles } from "./styles";
 import Layout from "../../components/Layout";
+import Table from "../../components/Table";
 
+import { Columns } from "./columns";
 const Freezers = () => {
   const classes = useStyles();
   return (
@@ -10,7 +12,7 @@ const Freezers = () => {
         <Layout />
         <main className={classes.content}>
           <div className={classes.toolbar} />
-          <h2>Freezers</h2>
+          <Table title={"Vacinas"} columns={Columns} />
         </main>
       </div>
     </div>
